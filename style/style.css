@@ -21,6 +21,7 @@
     text-transform: uppercase;
     font-size: 3.4em;
     padding-top: 500px;
+
 }
 
 
@@ -69,7 +70,7 @@
 
 .wrapper .navbar ul li:hover
 {
-  background-color: #594f8d;
+  background-color: #FF8000;
 }
     
 .wrapper .navbar ul li:hover a
@@ -82,3 +83,13 @@ body
    background-color: #DBD7D3;
 }
 
+.p1 p
+{
+  text-align: center;
+  padding-left: 200px;
+  font-size: 1.4em;
+  background-color: #4b4276;
+  border: 100px solid #4b4276;
+  border-radius: 180px;
+  color: #bdb8d7;
+}
